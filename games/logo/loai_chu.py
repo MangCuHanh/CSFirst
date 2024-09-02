@@ -1,0 +1,15 @@
+from pyfiglet import Figlet
+f = Figlet(font='larry3d')
+# f = Figlet(font='5lineoblique')
+# f = Figlet(font='gothic')
+# f = Figlet(font='invita')
+# f = Figlet(font='ntgreek')
+# f = Figlet(font='isometric1')
+# f = Figlet(font='')
+# f = Figlet(font='')
+# f = Figlet(font='')
+# f = Figlet(font='')
+# f = Figlet(font='')
+# f = Figlet(font='')
+#   
+# f = Figlet(font='Crazy')
